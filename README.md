@@ -1,4 +1,4 @@
-# Portfolio created with React App
+# Portfolio App
 
 ## Table of contents
 
